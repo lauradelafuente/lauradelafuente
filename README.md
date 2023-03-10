@@ -1,7 +1,7 @@
 ## Olá! Prazer, sou a Laura De La Fuente.
-- 🌱 Dev Web Full Stack em formação;
-- 📫 How to reach me: laura.delafuente@outlook.com.br;
-- 😄 Pronouns: Ela/Dela.
+- 👩🏻‍💻 Desenvolvedora Web Full Stack
+- 📚 Análise e Desenvolvimento de Sistemas - FIAP
+- 📧 laura.delafuente@outlook.com.br
 
 <div align="center">
   <a href="https://github.com/lauradelafuente">
