@@ -1,6 +1,6 @@
 ## Olá! Prazer, sou a Laura De La Fuente.
 - 👩🏻‍💻 Desenvolvedora Web Full Stack
-- 📚 Análise e Desenvolvimento de Sistemas - FIAP
+- 🎓 2024 | Análise e Desenvolvimento de Sistemas - FIAP
 - 📧 laura.delafuente@outlook.com.br
 
 <div align="center">
